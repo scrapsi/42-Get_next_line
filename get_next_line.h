@@ -6,11 +6,13 @@
 /*   By: baantoin <baantoin@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/11/24 13:15:09 by baantoin          #+#    #+#             */
-/*   Updated: 2026/11/24 13:16:30 by baantoin         ###   ########.fr       */
+/*   Updated: 2026/11/24 13:46:06 by baantoin         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #ifndef GET_NEXT_LINE_H
 # define GET_NEXT_LINE_H
+
+# include <unistd.h>
 
 #endif
